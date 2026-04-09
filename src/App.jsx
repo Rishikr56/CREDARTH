@@ -8,6 +8,8 @@ import Testimonials from './components/Testimonials';
 import LeadForm from './components/LeadForm';
 import Footer from './components/Footer';
 import React from 'react';
+import InfoStrip from './components/InfoStrip';
+import BankPartners from './components/BankPartners';
 
 export default function App() {
   return (
@@ -17,8 +19,10 @@ export default function App() {
       <Services />
       <Compare />
       <WhyUs />
+      <InfoStrip />
       <HowItWorks />
       <Testimonials />
+      <BankPartners />
       <LeadForm />
       <Footer />
     </div>

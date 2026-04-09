@@ -3,7 +3,7 @@ import { WHY_US } from '../data/siteData';
 
 export default function WhyUs() {
   return (
-    <section id="why-us" className="py-24 bg-gradient-to-br from-blue-900 via-blue-800 to-blue-900 relative overflow-hidden">
+    <section id="why-us" className="py-24 b bg-blue-900   00 relative overflow-hidden">
       {/* Background decoration */}
       <div className="absolute inset-0 opacity-10"
         style={{
